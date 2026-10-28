@@ -5,9 +5,12 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Sandbox.unity
     guid: 80762733b233c704abb313321879d19a
+  - enabled: 1
+    path: Assets/Samples/RUFA Core/Lezione 03 - Interazioni/Sala delle interazioni.unity
+    guid: fc020e91ebc8f61479afbf4b35f361a7
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
     com.unity.xr.arfoundation.simulation_settings: {fileID: 11400000, guid: 524c63c766f504943abb5b7503995da0, type: 2}
